@@ -1,0 +1,23 @@
+{
+  "name": "svg-optimizer",
+  "version": "1.0.0",
+  "description": "SVG optimizer (gulp)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nongrata081/svg-optimizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nongrata081/svg-optimizer/issues"
+  },
+  "homepage": "https://github.com/nongrata081/svg-optimizer#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-svgo": "^1.1.1"
+  }
+}
